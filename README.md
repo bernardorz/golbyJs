@@ -5,6 +5,16 @@
 
 # 🌐 GOLBYJS
 
+<p align="center">
+  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-idealizadores">Idealizadores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-inspirações">Inspirações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	<a href="#-exercícios">Exercícios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	<a href="#-iniciando">Iniciando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	<a href="#-base-de-conteúdos">Base de conteúdos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
+
 ---
 
 ## 📌 Sobre
@@ -18,8 +28,8 @@
 A ideia veio de [@Golden](https://github.com/jsGolden) e [@BernadoRZ](https://github.com/bernardorz).
 Acreditamos que ao transcrever o que aprendemos pela internet entre vídeo aulas e cursos, é mais uma chance de aprimorar esses conhecimentos e fortificar nossa base em lógica de programação.
 
-### ✨ Inspirações / Recursos reutilizados
-Temos como alicerce de conteúdos pesquisados de acordo com os vídeos de [@Rodrigo Manguinho](https://github.com/rmanguinho) e base de exercícios retirados do repositório de [@Roger Melo](https://github.com/Roger-Melo).
+### ✨ Inspirações
+Temos como alicerce de conteúdos pesquisados de acordo com os vídeos de [@Rodrigo Manguinho](https://github.com/rmanguinho) e base de exercícios retirados do repositório de [@Fernando Daciuk](https://github.com/fdaciuk).
 
 ### 📚 Exercícios
 Você pode acessar nossa base de exercícios contendo toda explicação por trás das resoluções [clicando aqui!](./exercicios)
@@ -33,7 +43,7 @@ Para abrir com o editor de código preferido, execute os seguintes comandos:
     # Abra o diretório no seu editor de texto / IDE
 ```
 
-### Base de conteúdos
+### 🤓 Base de conteúdos
 
 ```shell
     # Pré-requisitos
