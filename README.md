@@ -174,6 +174,6 @@ Para abrir com o editor de código preferido, execute os seguintes comandos:
 ```
 
 ## 📝 Licença
-Esse projeto está sob a licença [MIT](LICENSE.md).
+Esse projeto está sob a licença [MIT](LICENSE).
 
 ---
